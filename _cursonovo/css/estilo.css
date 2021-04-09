@@ -1,6 +1,11 @@
+@charset "UTF-8";
+
 body {
-    background-color: darkgray;
+    background-color: rgb(97, 97, 97);
 }
 p {
 text-align: justify;
+}
+h2 {
+    text-align: right;
 }
